@@ -1,0 +1,65 @@
+.navbar-custom{
+	padding: 0rem 0rem;
+}
+.navbar-brand-custom{
+	background-color: #2d3092;
+	padding-left: 1rem;
+}
+.ncolor{
+	color:white;
+
+}
+.mysp{
+	color:#9e9fa1;
+}
+.rightmar{
+	margin-right: 6rem !important
+}
+.login{
+	color:  #8c8fd2;
+}
+.size{
+	font-size: 62px;
+	color: #6267c9;
+}
+.mylist{
+	color: #111344;
+}
+.onedu{
+	background-color: #F4F4F4;
+	width: 17%;
+	margin-left: -16px;
+	margin-top: -7px;
+	padding-bottom: 0px;
+	margin-bottom: -8px;
+}
+input{
+	background-color: #F4F4F4;
+	border-color: #F4F4F4;
+	color: #111344;
+}
+.newcolor{
+	background-color:  #F4F4F4;
+	border-radius: 30px;
+	height: 54px;
+	width: 225px;
+}
+.blue{
+	
+	color:white;
+}
+.btn-custom{
+	background-color:#2d3092;
+}
+.btn-custom:hover {
+	background-color:#2d3092;
+}
+.btn-custom:active{
+	background-color:#2d3092;
+}
+.hero{
+	width:97%;
+}
+.hcolor{
+	background-color: #bcdefe;
+}
